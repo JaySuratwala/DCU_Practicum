@@ -91,7 +91,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <Image
+          {/* <Image
             aria-hidden
             src="/globe.svg"
             alt="Globe icon"
@@ -99,7 +99,7 @@ export default function Home() {
             height={16}
           />
           Go to nextjs.org →
-        </a>
+        </a> */}
       </footer>
     </div>
   );
