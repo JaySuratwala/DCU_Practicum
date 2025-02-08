@@ -2,9 +2,11 @@
   "dependencies": {
     "@tabler/icons-react": "^3.29.0",
     "clsx": "^2.1.1",
-    "motion": "^12.4.0",
+    "motion": "^12.4.1",
     "react": "^19.0.0",
     "react-dropzone": "^14.3.5",
+    "react-element-to-jsx-string": "^17.0.0",
+    "sonner": "^1.7.4",
     "tailwind-merge": "^3.0.1"
   }
 }
